@@ -97,7 +97,7 @@ Este proyecto es una aplicación práctica del curso de Java de Alura para las c
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Volver a inicio</a>
 </p>
 
-## <a name="licenca"> Licença </a>
+## <a name="licencia"> Licencia </a>
 
 <a href="https://buymeacoffee.com/ryuugunatm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
